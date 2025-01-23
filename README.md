@@ -37,4 +37,4 @@ El backend utiliza un **archivo JSON alojado en GitHub** como base de datos, que
    - Node.js y npm  
 2. Clonar este repositorio:  
    ```bash
-   git clone <[URL del repositorio](https://github.com/ejmerino/crud-verduras)>
+   git clone <https://github.com/ejmerino/crud-verduras.git>
