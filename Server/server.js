@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 // Configuración de GitHub
 const GITHUB_OWNER = 'ejmerino';  
-const GITHUB_REPO = 'verdurasjson';  
+const GITHUB_REPO = 'crud-verduras';  
 const GITHUB_FILE = 'verduras.json';  
 const GITHUB_TOKEN = 'defaulttoken'; //Cambiar por el toker generado en GitHub (No subido por temas de seguirdad)  
 
